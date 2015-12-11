@@ -2771,7 +2771,7 @@ Scheme
 				"additive"	"0"
 			}
 		}
-         RobotoBoldLarge
+        RobotoBoldLarge
 		{
 			"1"
 			{
@@ -2808,7 +2808,7 @@ Scheme
 				"antialias" "1"				
 			}
 		}
-		  RobotoBoldMedium
+		RobotoBoldMedium
 		{
 			"1"
 			{
@@ -2841,6 +2841,33 @@ Scheme
 			{
 				"name"		"Roboto Light"
 				"tall"		"8"
+				"antialias" "1"				
+			}
+		}
+		RobotoRegularSmallestier
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"8"
+				"antialias" "1"				
+			}
+		}
+		RobotoBoldSmallestier
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"8"
+				"antialias" "1"				
+			}
+		}
+		RobotoRegularSmallest
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"11"
 				"antialias" "1"				
 			}
 		}
