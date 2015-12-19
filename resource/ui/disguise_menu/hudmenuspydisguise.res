@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"MainBackground"
-		"xpos"			"0"
+		"xpos"			"100"
 		"ypos"			"15"
 		"zpos"			"0"
 		"wide"			"470"
@@ -392,13 +392,12 @@
 		"tall"			"120"
 		"visible"		"0"
 	}
-
 	"NumberBg1"	
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"NumberBg"
-		"xpos"			"75"
-		"ypos"			"140"
+		"xpos"			"9999"
+		"ypos"			"9999"
 		"zpos"			"4"
 		"wide"			"15"
 		"tall"			"15"
@@ -407,14 +406,13 @@
 		"scaleImage"	"1"	
 		"icon"			"ico_key_blank"
 		"iconColor"		"255 255 255 255"
-	}
-	
+	}	
 	"NumberLabel1"
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
-		"font"			"Default"
-		"fgcolor"		"Black"
+		"font"			"RobotoRegularMedium"
+		"fgcolor"		"255 255 255 255"
 		"xpos"			"75"
 		"ypos"			"140"
 		"zpos"			"5"
@@ -429,13 +427,12 @@
 		"dulltext"		"1"
 		"brighttext"	"0"
 	}
-
 	"NumberBg2"
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"NumberBg"
-		"xpos"			"227"
-		"ypos"			"140"
+		"xpos"			"9999"
+		"ypos"			"9999"
 		"zpos"			"4"
 		"wide"			"15"
 		"tall"			"15"
@@ -444,14 +441,13 @@
 		"scaleImage"	"1"	
 		"icon"			"ico_key_blank"
 		"iconColor"		"255 255 255 255"
-	}
-	
+	}	
 	"NumberLabel2"
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
-		"font"			"Default"
-		"fgcolor"		"Black"
+		"font"			"RobotoRegularMedium"
+		"fgcolor"		"255 255 255 255"
 		"xpos"			"227"
 		"ypos"			"140"
 		"zpos"			"5"
@@ -465,14 +461,13 @@
 		"textAlignment"	"Center"
 		"dulltext"		"1"
 		"brighttext"	"0"
-	}
-	
+	}	
 	"NumberBg3"
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"NumberBg"
-		"xpos"			"379"
-		"ypos"			"140"
+		"xpos"			"9999"
+		"ypos"			"9999"
 		"zpos"			"4"
 		"wide"			"15"
 		"tall"			"15"
@@ -481,15 +476,14 @@
 		"scaleImage"	"1"	
 		"icon"			"ico_key_blank"
 		"iconColor"		"255 255 255 255"
-	}
-	
+	}		
 	"NumberLabel3"
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
-		"font"			"Default"
-		"fgcolor"		"Black"
-		"xpos"			"379"
+		"font"			"RobotoRegularMedium"
+		"fgcolor"		"255 255 255 255"
+		"xpos"			"300"
 		"ypos"			"140"
 		"zpos"			"5"
 		"wide"			"15"

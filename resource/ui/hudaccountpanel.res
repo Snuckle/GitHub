@@ -41,7 +41,7 @@
 		"enabled"		"1"
 		"scaleImage"	"1"	
 		"icon"			"ico_metal"
-		"iconColor"		"25 209 130 255"
+		"iconColor"		"0 255 0 255"
 	}
 	
 	"AccountValue"
@@ -63,7 +63,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"RobotoRegular26"
-		"fgcolor"       "25 209 255 255"
+		"fgcolor"       "0 255 0 255"
 	}
 	"AccountValueShadow"
 	{

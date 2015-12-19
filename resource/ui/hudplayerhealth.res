@@ -5,8 +5,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HudPlayerHealth"
-		"xpos"			"c-320"		[$WIN32]
-		"ypos"			"c62"  [$WIN32]
+		"xpos"			"c-320"		
+		"ypos"			"c62"  
 		"zpos"			"2"
 		"wide"			"230"
 		"tall"			"170"
@@ -68,6 +68,7 @@
 		"tall"			"40"
 		"visible"		"1"
 		"enabled"		"1"
+		"scaleTImage"     "1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
 		"font"			"RobotoBoldLarge"
