@@ -406,14 +406,15 @@
 		"scaleImage"	"1"	
 		"icon"			"ico_key_blank"
 		"iconColor"		"255 255 255 255"
-	}	
+	}
+	
 	"NumberLabel1"
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
-		"font"			"RobotoRegularMedium"
-		"fgcolor"		"255 255 255 255"
-		"xpos"			"75"
+		"font"			"Default"
+		"fgcolor"		"Black"
+		"xpos"			"225"
 		"ypos"			"140"
 		"zpos"			"5"
 		"wide"			"15"
@@ -427,6 +428,7 @@
 		"dulltext"		"1"
 		"brighttext"	"0"
 	}
+
 	"NumberBg2"
 	{
 		"ControlName"	"CIconPanel"
@@ -441,13 +443,14 @@
 		"scaleImage"	"1"	
 		"icon"			"ico_key_blank"
 		"iconColor"		"255 255 255 255"
-	}	
+	}
+	
 	"NumberLabel2"
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
-		"font"			"RobotoRegularMedium"
-		"fgcolor"		"255 255 255 255"
+		"font"			"Default"
+		"fgcolor"		"Black"
 		"xpos"			"227"
 		"ypos"			"140"
 		"zpos"			"5"
@@ -461,7 +464,8 @@
 		"textAlignment"	"Center"
 		"dulltext"		"1"
 		"brighttext"	"0"
-	}	
+	}
+	
 	"NumberBg3"
 	{
 		"ControlName"	"CIconPanel"
@@ -476,14 +480,15 @@
 		"scaleImage"	"1"	
 		"icon"			"ico_key_blank"
 		"iconColor"		"255 255 255 255"
-	}		
+	}
+	
 	"NumberLabel3"
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
-		"font"			"RobotoRegularMedium"
-		"fgcolor"		"255 255 255 255"
-		"xpos"			"300"
+		"font"			"Default"
+		"fgcolor"		"Black"
+		"xpos"			"379"
 		"ypos"			"140"
 		"zpos"			"5"
 		"wide"			"15"

@@ -37,7 +37,28 @@
 		"brighttext"	"0"
 		"font"			"RobotoBoldLarge"
 		"fgcolor"       "25 209 255 255"
-	}	
+	}
+    "ChargeLabelShadow"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"ChargeLabelShadow"
+		"xpos"			"r268"
+		"ypos"			"17"
+		"zpos"			"1"
+		"wide"			"1000"
+		"tall"			"72"
+		"autoResize"	"1"
+		"pinCorner"		"2"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
+		"labelText"		"#TF_UberchargeMinHUD"
+		"textAlignment"	"west"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"font"			"RobotoBoldLarge"
+		"fgcolor"       "black"
+	}		
 
 	"IndividualChargesLabel"
 	{
