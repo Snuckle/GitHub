@@ -1,13 +1,15 @@
 "Resource/UI/HudAccountPanel.res"
 {
 	"CHudAccountPanel"
-	{
+	{   
+	    "xpos"                  "c-47"
+		"ypos"                  "c25"
 		"delta_item_x"			"30"
 		"delta_item_start_y"	"97"
-		"delta_item_end_y"		"80"
+		"delta_item_end_y"		"88"
 		"PositiveColor"			"0 255 0 255"
 		"NegativeColor"			"255 0 0 255"
-		"delta_lifetime"		"1.0"
+		"delta_lifetime"		"0.78"
 		"delta_item_font"		"RobotoRegularMedium"
 	}
 	
@@ -41,7 +43,7 @@
 		"enabled"		"1"
 		"scaleImage"	"1"	
 		"icon"			"ico_metal"
-		"iconColor"		"0 255 0 255"
+		"iconColor"		"255 255 255 255"
 	}
 	
 	"AccountValue"

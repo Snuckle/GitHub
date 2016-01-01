@@ -5,8 +5,8 @@
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"r266"	[$WIN32]
-		"ypos"			"r130"	[$WIN32]
+		"xpos"			"c157"	[$WIN32]
+		"ypos"			"c110"	[$WIN32]
 		"wide"			"100"
 		"tall"			"50"
 		"MeterFG"		"White"
@@ -48,7 +48,8 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"RobotoLightSmallestier"
+		"font"					"RobotoBoldSmallestier"
+		"fgcolor_override"      "255 255 255 255"
 	}
 
 	"ItemEffectMeter"
@@ -91,5 +92,6 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"RobotoLightSmallest"
+		"fgcolor"               "0 255 0 255"
 	}
 }

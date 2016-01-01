@@ -5,8 +5,8 @@
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"r547"	[$WIN32]
-		"ypos"			"r90"	[$WIN32]
+		"xpos"			"c-120"	[$WIN32]
+		"ypos"			"c149"	[$WIN32]
 		"wide"			"200"
 		"tall"			"50"
 		"MeterFG"		"White"
@@ -52,7 +52,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"RobotoLightSmallestier"
+		"font"					"RobotoLightSmallest"
 	}
 
 	"ItemEffectMeter"

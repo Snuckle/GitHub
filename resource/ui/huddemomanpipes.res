@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"background"
-		"xpos"			"12"
+		"xpos"			"c130"
 		"ypos"			"6"
 		"zpos"			"0"
 		"wide"			"76"
@@ -22,7 +22,7 @@
 		"ControlName"			"CExLabel"
 		"fieldName"				"ChargeLabel"
 		"xpos"					"86"
-		"ypos"					"66"
+		"ypos"					"69"
 		"zpos"					"2"
 		"wide"					"41"
 		"tall"					"15"
